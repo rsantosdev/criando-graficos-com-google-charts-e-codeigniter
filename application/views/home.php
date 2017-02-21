@@ -3,7 +3,7 @@
 <div class="container">
 	<div class="col-md-12">
 		<div class="page-header">
-			<h1>Criando gráficos com Google Charts e CodeIgniter</h1>
+			<h1>Criando gráficos com Google Charts e CodeIgniter - Ao vivo nos hangouts</h1>
 		</div>
 	</div>
 	<div class="col-md-3">
